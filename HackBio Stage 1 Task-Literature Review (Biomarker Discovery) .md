@@ -2,7 +2,7 @@
 
 # Review on the study 'Integrated genomic analyses of ovarian carcinoma'
 
-Authors (@slack): Mennatallah Mohamed Ebrahim Mahmoud, (@Mennatallah) Ademilola Adekoya (@Demi\_Nevaeh), Shreya Karandikar (@Shreya), Ganiyu Kaosara Oyinola (@Mojoyin)
+Authors (@slack): Mennatallah Mohamed Ebrahim Mahmoud (@Mennatallah), Ademilola Adekoya (@Demi\_Nevaeh), Shreya Karandikar (@Shreya), Ganiyu Kaosara Oyinola (@Mojoyin)
 
 ## Link to video: 
 ## Introduction
