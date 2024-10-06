@@ -8,11 +8,11 @@ Authors (@slack): Sanzida Akhter Anee (@Sanzida), Sk Arif (@arif_shaikh), Nada G
 
 ## Link
 
-#### Github repo : (https://github.com/sanzidaanee/Hackbio-cancer-internship/tree/main/Stage%203)
+#### Github repo : (https://github.com/Menna-tallah40/HackBio-Cancer-Internship/tree/main/Stage%203%20Task)
 #### Github code link
-DE_Analysis R Code: (https://github.com/sanzidaanee/Hackbio-cancer-internship/blob/main/Stage%203/Code/DEG.Rmd)
+DE_Analysis R Code: (https://github.com/Menna-tallah40/HackBio-Cancer-Internship/blob/main/Stage%203%20Task/Codes/DEG.Rmd)
 
-ML Python Code: (https://github.com/sanzidaanee/Hackbio-cancer-internship/blob/main/Stage%203/Code/ML_Lung_Cancer.ipynb)
+ML Python Code: (https://github.com/Menna-tallah40/HackBio-Cancer-Internship/blob/main/Stage%203%20Task/Codes/ML_Lung_Cancer.ipynb)
 #### Link of dataset
 (https://github.com/sanzidaanee/Hackbio-cancer-internship/tree/main/Stage%203/Data)
 
