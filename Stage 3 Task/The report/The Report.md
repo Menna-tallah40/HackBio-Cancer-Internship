@@ -14,7 +14,7 @@ DE_Analysis R Code: (https://github.com/Menna-tallah40/HackBio-Cancer-Internship
 
 ML Python Code: (https://github.com/Menna-tallah40/HackBio-Cancer-Internship/blob/main/Stage%203%20Task/Codes/ML_Lung_Cancer.ipynb)
 #### Link of dataset
-(https://github.com/sanzidaanee/Hackbio-cancer-internship/tree/main/Stage%203/Data)
+(https://github.com/Menna-tallah40/HackBio-Cancer-Internship/tree/main/Stage%203%20Task/Data)
 
 ## Introduction
 
