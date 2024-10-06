@@ -6,7 +6,7 @@ Authors (@slack): Sanzida Akhter Anee (@Sanzida), Sk Arif (@arif_shaikh), Mina Z
 
 ## R Code link
 
-https://github.com/sanzidaanee/Hackbio-cancer-internship/blob/main/code/gene_expression_heatmap.Rmd
+https://github.com/Menna-tallah40/HackBio-Cancer-Internship/blob/main/Stage%202%20Task/Codes/gene_expression_heatmap.Rmd
 
 
 ## Heatmaps for Gene Expression Analysis
@@ -28,7 +28,7 @@ Glioblastoma, also known as glioblastoma multiforme (GBM), is an aggressive type
 
 ### Link of Data
 
-(https://github.com/sanzidaanee/Hackbio-cancer-internship/blob/main/Stage%202/Data/glioblastoma.csv)
+(https://github.com/Menna-tallah40/HackBio-Cancer-Internship/blob/main/Stage%202%20Task/Data/glioblastoma.csv)
 
 ## Heatmap from Glioblastoma Dataset
 
